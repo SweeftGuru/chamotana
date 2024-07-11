@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "name": "SpaceCargo",
+    "website": "https://www.spacecargo.ge/",
+    "services": [
+      {
+        "country": "china",
+        "methods": [
+          {
+            "method": "AIR",
+            "price": 12.85,
+            "delay": 14
+          }
+        ]
+      },
+      {
+        "country": "USA",
+        "methods": [
+          {
+            "method": "AIR",
+            "price": 8.85,
+            "delay": 12
+          }
+        ]
+      },
+      {
+        "country": "TURKAY",
+        "methods": [
+          {
+            "method": "AIR",
+            "price": 2.85,
+            "delay": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "wejet",
+    "website": "https://wejet.ge/",
+    "services": [
+      {
+        "country": "china",
+        "methods": [
+          {
+            "method": "AIR",
+            "price": 9.45,
+            "delay": 14
+          }
+        ]
+      },
+      {
+        "country": "TURKAY",
+        "methods": [
+          {
+            "method": "AIR",
+            "price": 2.4,
+            "delay": 6
+          }
+        ]
+      },
+      {
+        "country": "Great Kingdom",
+        "methods": [
+          {
+            "method": "AIR",
+            "price": 6.2,
+            "delay": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "china2me",
+    "website": "https://www.china2me.ge/ka",
+    "services": [
+      {
+        "country": "china",
+        "methods": [
+          {
+            "method": "AIR",
+            "price": 12.5,
+            "delay": 14
+          },
+          {
+            "method": "ROAD",
+            "price": 5.9,
+            "delay": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "inex.ge",
+    "website": "https://inex.ge/",
+    "services": [
+      {
+        "country": "china",
+        "methods": [
+          {
+            "method": "AIR",
+            "price": 12.5,
+            "delay": 14
+          }
+        ]
+      },
+      {
+        "country": "USA",
+        "methods": [
+          {
+            "method": "AIR",
+            "price": 12.5,
+            "delay": 12
+          }
+        ]
+      },
+      {
+        "country": "TURKAY",
+        "methods": [
+          {
+            "method": "AIR",
+            "price": 4,
+            "delay": 7
+          }
+        ]
+      }
+    ]
+  }
+]
